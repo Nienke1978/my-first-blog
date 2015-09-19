@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+19september
+db.sqlite3
+/static
+.DS_Store
